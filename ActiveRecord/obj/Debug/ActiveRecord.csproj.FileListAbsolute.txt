@@ -1,0 +1,6 @@
+c:\users\jessa\onedrive\documents\visual studio 2015\Projects\ActiveRecord\ActiveRecord\bin\Debug\ActiveRecord.exe.config
+c:\users\jessa\onedrive\documents\visual studio 2015\Projects\ActiveRecord\ActiveRecord\obj\Debug\ActiveRecord.csprojResolveAssemblyReference.cache
+C:\Users\jessa\OneDrive\Documents\Visual Studio 2015\Projects\ActiveRecord\ActiveRecord\bin\Debug\ActiveRecord.exe
+C:\Users\jessa\OneDrive\Documents\Visual Studio 2015\Projects\ActiveRecord\ActiveRecord\bin\Debug\ActiveRecord.pdb
+C:\Users\jessa\OneDrive\Documents\Visual Studio 2015\Projects\ActiveRecord\ActiveRecord\obj\Debug\ActiveRecord.exe
+C:\Users\jessa\OneDrive\Documents\Visual Studio 2015\Projects\ActiveRecord\ActiveRecord\obj\Debug\ActiveRecord.pdb
